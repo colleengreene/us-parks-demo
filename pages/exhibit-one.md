@@ -24,3 +24,8 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 - Point Three
 
 {% include feature/image.html objectid="coll006" width="75" %}
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+{% include feature/pdf.html objectid="https://www.nps.gov/rori/getinvolved/upload/Rosie-the-Riveter-Foundation-Document-Overview.pdf" width="50" caption="Rosie the Riveter Foundation Document Overview" %}
+
