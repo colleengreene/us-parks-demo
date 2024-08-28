@@ -23,4 +23,4 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 - Point Two
 - Point Three
 
-{% include feature/image.html objectid="coll006" width="75" caption="an image" %}
+{% include feature/image.html objectid="coll006" width="75" %}
