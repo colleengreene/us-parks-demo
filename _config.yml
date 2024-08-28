@@ -22,12 +22,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # title of site appears in banner
 title: U.S. Parks Demo Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Created by Colleen Robledo Greene, MLIS for teaching purposes.
+tagline: "Created by Colleen Robledo Greene, MLIS for teaching purposes."
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "This demo site has been created by Colleen Robledo Greene, MLIS, the Digital Scholarship Librarian at California State University, Fullerton. It is for the purpose of learning to teach the CollectionBuilder platform."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Colleen Robledo Greene, MLIS
+author: Colleen Robledo Greene
 
 ##########
 # COLLECTION SETTINGS
